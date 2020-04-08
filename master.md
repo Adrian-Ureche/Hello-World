@@ -1,6 +1,6 @@
 # Master
-Description
+Another Description
 
-Hi!
+What s up, bro?
 
-My first Git, Awsome!
+My second Git, Worry!
